@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Secure, offline-first Jarvis-style AI assistant with device control, IoT integration, and AES encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
